@@ -1,0 +1,11 @@
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.exe
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.deps.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.runtimeconfig.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.runtimeconfig.dev.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\bin\Debug\netcoreapp3.1\PatronPuente.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\obj\Debug\netcoreapp3.1\PatronPuente.csprojAssemblyReference.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\obj\Debug\netcoreapp3.1\PatronPuente.AssemblyInfoInputs.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\obj\Debug\netcoreapp3.1\PatronPuente.AssemblyInfo.cs
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\obj\Debug\netcoreapp3.1\PatronPuente.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\07_Bridge\PatronPuente\obj\Debug\netcoreapp3.1\PatronPuente.pdb
